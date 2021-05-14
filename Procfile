@@ -1,2 +1,2 @@
-web: gunicorn projeto_fvblog.wsgi
+web: gunicorn projeto_blog.wsgi
 
